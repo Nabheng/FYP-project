@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "351955379925",
+    "firebase_url": "https://csp650-fyp-c5ddf-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "csp650-fyp-c5ddf",
+    "storage_bucket": "csp650-fyp-c5ddf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351955379925:android:c813b1f786f8eec080a45c",
+        "android_client_info": {
+          "package_name": "com.example.catsaway"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBdljj8lCy6JwAGb37IXsUdqn1auEMq78"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
